@@ -1,7 +1,10 @@
-#lets change 
-#billy
-# peter
-# Briisp Academy
-# daniel 
-# poul
-# hello
+<style>
+. grood {
+    background-color: yellow;
+    border:2px solid white;
+
+}
+
+
+
+</style>
